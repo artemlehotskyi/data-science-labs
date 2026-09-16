@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local data (large or private datasets)
+data/raw/
