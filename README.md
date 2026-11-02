@@ -34,7 +34,12 @@ Principles followed across the labs:
 | 03 | Linear algebra | Matrix operations without built-in aggregations | ✅ |
 | 04 | Data analysis with pandas | Filtering and aggregating a real dataset (Titanic) | ⏳ |
 | 05 | Data visualization | Bar charts, function plots with Matplotlib | ⏳ |
-| 06 | Optimization | Gradient descent for one and several variables | ⏳ |
+| 06 | Optimization. Gradient descent | Gradient descent for one and several variables | ⏳ |
+| 07 | Probability and mathematical statistics | Probability basics, descriptive statistics, distributions | ⏳ |
+| 08 | Regression | Linear regression and model evaluation | ⏳ |
+| 09 | Data preprocessing for models | Cleaning, encoding, scaling, feature preparation | ⏳ |
+| 10 | Classification and clustering | Various classification and clustering algorithms | ⏳ |
+| 11 | Decision trees and ensemble models | Decision trees, random forest, boosting | ⏳ |
 
 ## Repository structure
 
