@@ -2,7 +2,7 @@
 
 # 📊 Data Science Labs
 
-**Hands-on Python exercises: from core algorithms to NumPy, pandas, visualization and optimization.**
+**Hands-on Python exercises: from core algorithms to NumPy, pandas, visualization, optimization and machine learning.**
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
