@@ -22,3 +22,9 @@ df["Pclass"] = df["Pclass"].replace({1: 'First', 2: 'Second', 3: 'Third'})
 df_crimes = pd.read_excel('CrimesData.xlsx')
 
 df_crimes.info()
+df_crimes['CrimeDate'] = pd.to_datetime(df_crimes['CrimeDate'], format='%m/%d/%Y')
+YEAR = 2012
+mask_year = df_crimes['CrimeDate'].dt.year == YEAR
+
+crimes_year = df_crimes.loc[mask_year]
+crimes_year['CrimeDate'].dt.month.value_counts().sort_index()
