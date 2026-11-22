@@ -32,7 +32,7 @@ Principles followed across the labs:
 | 01 | Python fundamentals | Taylor series approximation, list processing, string transformation | ✅ |
 | 02 | NumPy vectorization | Loop-free computation, boolean masks, array transforms | ✅ |
 | 03 | Linear algebra | Matrix operations without built-in aggregations | ✅ |
-| 04 | Data analysis with pandas | Filtering and aggregating a real dataset (Titanic) | ⏳ |
+| 04 | Data analysis with pandas | Filtering and aggregating a real dataset (Titanic) | ✅ |
 | 05 | Data visualization | Bar charts, function plots with Matplotlib | ⏳ |
 | 06 | Optimization. Gradient descent | Gradient descent for one and several variables | ⏳ |
 | 07 | Probability and mathematical statistics | Probability basics, descriptive statistics, distributions | ⏳ |
